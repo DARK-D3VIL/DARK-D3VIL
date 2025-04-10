@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DARK-D3VIL" alt="DARK-D3VIL" /></a> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Ruby On Rails**
 
 - 💬 Ask me about **Tensorflow, Machine learning, Backend Development**
 
